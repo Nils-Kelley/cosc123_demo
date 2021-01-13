@@ -8,6 +8,8 @@ If you want **bold text**, just surround the words with doule star.
 
 ### This is a level 3 heading
 
+If you want to italize text, just surround the *word* with a single star
+
 - item 1
 - item 2
 - item 3
@@ -31,7 +33,7 @@ This is a break
 Here is a list of lists:
 
 - This is a category
-  -Sub List
-  -Sub List 2
-  -Sub List 3
+  - Sub List
+  - Sub List 2
+  - Sub List 3
  - This is another category
